@@ -34,5 +34,5 @@ Each notebook explores a different scraping task — from extracting quotes and 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/web-scraping-notebooks.git](https://github.com/TejashweeNishant/web-scraping-notebooks
+  https://github.com/TejashweeNishant/web-scraping-notebooks
    cd web-scraping-notebooks
